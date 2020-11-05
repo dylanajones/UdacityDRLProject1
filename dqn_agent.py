@@ -1,3 +1,5 @@
+# Adapted from udacity deep reinforcement learning example
+
 import numpy as np
 import random
 from collections import namedtuple, deque
